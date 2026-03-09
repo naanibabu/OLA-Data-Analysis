@@ -57,18 +57,23 @@ An end-to-end data analysis project simulating **1,00,000 OLA ride bookings** in
 **Snapshot metrics:**
 - Total Bookings: **99,673** | Revenue: **₹34M**
 - Cancellation Rate: **28%** | Avg Rating: **~4.0**
+## 🖼️ Dashboard Screenshots
+
+### Overall View
+![Overall](https://github.com/naanibabu/OLA-Data-Analysis/blob/main/dashboard%20-1.png)
+
+### Vehicle Type View
+![Vehicle Type](https://github.com/naanibabu/OLA-Data-Analysis/blob/main/dashboard-2.png)
+
+### Revenue View
+![Revenue](https://github.com/naanibabu/OLA-Data-Analysis/blob/main/dashboard-3.png)
+
+### Cancellation View
+![Cancellation](https://github.com/naanibabu/OLA-Data-Analysis/blob/main/dashboard-4.png)
+
+### Ratings View
+![Ratings](https://github.com/naanibabu/OLA-Data-Analysis/blob/main/dashboard%20-5.png)
 
 ---
-
-## 🗂️ Repo Structure
-
-```
-OLA-Data-Analyst-Project/
-├── data/        # ola_bookings.xlsx
-├── sql/         # ola_queries.sql
-├── powerbi/     # OLA_Dashboard.pbix
-└── README.md
-```
-
 ## 🛠️ Tools Used
 `MySQL` &nbsp;|&nbsp; `Power BI` &nbsp;|&nbsp; `Excel`
